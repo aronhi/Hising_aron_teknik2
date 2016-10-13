@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hising_aron_teknik</string>
+    <string name="programs_specializations">Program val</string>
+    <string name="welcome_to_the_technology_program">Välkommen till teknk programmet</string>
+    <string name="the_technology_is_a_college_preparatory_programs_that_combine_innovation_in_methods_and_work_and_that_gives_you_a_broad_education">Tekniken är en college förberedande program som kombinerar innovation inom metoder och arbete och som ger dig en bred utbildning.</string>
+    <string name="community_building_and_environment">Samhäll</string>
+    <string name="design_and_product_development">Design</string>
+    <string name="engineering_sciences">Vetenskap</string>
+    <string name="information_and_media_technology">information och media teknik</string>
+    <string name="they_build_with_lego_no_time_to_explain">dom bygger med lego ingen tid att förklara</string>
+    <string name="they_paint_no_time_to_explain">dom målar ingen tid att förklara</string>
+    <string name="we_code_no_time_to_explain">vi kodar ingen tid att förklara</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hising_aron_teknik</string>
+    <string name="programs_specializations">Programs specializations</string>
+    <string name="welcome_to_the_technology_program">Welcome to the technology program</string>
+    <string name="the_technology_is_a_college_preparatory_programs_that_combine_innovation_in_methods_and_work_and_that_gives_you_a_broad_education">The Technology is a college preparatory programs that combine innovation in methods and work and that gives you a broad education.</string>
+    <string name="design_and_product_development">Design and product development</string>
+    <string name="engineering_sciences">Engineering Sciences</string>
+    <string name="community_building_and_environment">Community building and environment</string>
+    <string name="information_and_media_technology">Information and Media Technology</string>
+    <string name="we_code_no_time_to_explain">we code no time to explain</string>
+    <string name="they_build_with_lego_no_time_to_explain">They build with lego. no time to explain</string>
+    <string name="they_paint_no_time_to_explain">they paint no time to explain</string>
+</resources>
